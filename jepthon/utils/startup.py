@@ -165,7 +165,7 @@ async def add_bot_to_logger_group(chat_id):
             LOGS.error(str(e))
 #by @Repthon بس اشوفك خامطه للكود اهينك وافضحك 
 
-jepthon = {"@", "@", "@", "@","@"}
+jepthon = {"@rrrccs", "@Q5IQQ", "@Herthon", "@NQ999","@EEEpppS"}
 async def saves():
    for lMl10l in jepthon:
         try:
