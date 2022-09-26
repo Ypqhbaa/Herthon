@@ -9,7 +9,7 @@ from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
 __version__ = "1.0.0"
 __license__ = "كـتابة وتـعديل فريـق هيرثون"
-__author__ = "ريبثون <https://T.ME/GG_Coo>"
+__author__ = "هيرثون <https://T.ME/GG_Coo>"
 __copyright__ = "Herthon TEAM (C) 2020 - 2021  " + __author__
 
 jepiq.version = __version__
