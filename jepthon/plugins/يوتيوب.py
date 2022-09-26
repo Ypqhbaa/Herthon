@@ -367,7 +367,7 @@ async def kakashi(event):
         end = datetime.now()
         ms = (end - start).seconds
         await cat.edit(
-            f"꙳ ¦ تم تنزيل بواسطة  : @Repthon ",
+            f"꙳ ¦ تم تنزيل بواسطة  : @Herthon ",
             parse_mode="html",
         )
     await event.client.delete_messages(
