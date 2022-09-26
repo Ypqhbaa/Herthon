@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/Repthon"><img src="https://telegra.ph/file/fb6e5de12813c42531f51.jpg" width="5000"></a></p>
+<p align="center"><a href="https://t.me/GG_Coo"><img src="https://telegra.ph/file/192a348fdae917decf4f5.jpg" width="5000"></a></p>
 <h1 align="center"><b>Repthon_USERBOT 🇮🇶 </b></h1>
 <h4 align="center">𓆰♥️🧸 𝐖𝐞𝐥𝐂𝐨𝐦𝐞 𝑻𝐨 𝙎𝙊𝙐𝙍𝘾𝞝_𝐑𝐄𝐏𝐓𝐇𝐎𝐍↷.</h4>
 
@@ -29,6 +29,6 @@ published by the Free Software Foundation, either version 3 of the License, or
 
   
 ## Dev
-   <a href="https://t.me/ZQ_LO"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
-✗ ¦ ↱𝐺𝑜𝑙 𝐷. 𝑅𝑜𝑔𝑒𝑟↲ ¦ ✗ 𐇮
+   <a href="https://t.me/1960777228"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
+✗ المؤسس ✗ 𐇮
 
