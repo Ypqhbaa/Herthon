@@ -30,10 +30,10 @@ plugin_category = "tools"
 async def _(event):
     "Restarts the bot !!"
     if BOTLOG:
-        await event.client.send_message(BOTLOG_CHATID, "**⌔︙جيبثون العرب ↻** \n" "**⌯︙تم تحديث السورس بنجاح ✅ ↻**")
+        await event.client.send_message(BOTLOG_CHATID, "**⌔︙هيرثون العرب ↻** \n" "**⌯︙تم تحديث السورس بنجاح ✅ ↻**")
     lMl10l = await edit_or_reply(
         event,
-        "**⌯︙جـاري تحديث سورس ريبثون ، قـد يستغـرق الأمـر 2-3 دقائـق لاتقم بكتابة تحديث مـره اخـرى انتـظـر ⏱**",
+        "**⌯︙جـاري تحديث سورس هيرثون ، قـد يستغـرق الأمـر 2-3 دقائـق لاتقم بكتابة تحديث مـره اخـرى انتـظـر ⏱**",
     )
     try:
         ulist = get_collectionlist_items()
