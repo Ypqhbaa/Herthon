@@ -62,7 +62,7 @@ async def startupmessage():
         if BOTLOG:
             Config.CATUBLOGO = await jepiq.tgbot.send_file(
                 BOTLOG_CHATID,
-                "https://telegra.ph/file/192a348fdae917decf4f5.jpg",
+                "https://telegra.ph/file/d0d03695ad9089e0ce9a7.jpg",
                 caption="⌯︙**بــوت هيرثون يـعـمـل بـنـجـاح**  ✅ \n⌯︙**قـنـاة الـسـورس**  :  @Herthon",
                 buttons=[(Button.url("كروب هيرثون ", "https://t.me/HerHON"),)],
             )
@@ -241,7 +241,7 @@ async def verifyLoggerGroup():
             )
     else:
         descript = "- عزيزي المستخدم هذه هي مجموعه الاشعارات يرجى عدم حذفها  - @Herthon"
-        photobt = await jepiq.upload_file(file="JepIQ/razan/resources/start/IMG_20220821_230957_726.jpg")
+        photobt = await jepiq.upload_file(file="JepIQ/razan/resources/start/IMG_20220926_193459_099.jpg")
         _, groupid = await create_supergroup(
             "مجموعة اشعارات هيرثون ", jepiq, Config.TG_BOT_USERNAME, descript, photobt
         )
@@ -270,7 +270,7 @@ async def verifyLoggerGroup():
             )
     else:
         descript = "⌯︙ وظيفه الكروب يحفظ رسائل الخاص اذا ما تريد الامر احذف الكروب نهائي \n  - @Herthon"
-        photobt = await jepiq.upload_file(file="JepIQ/razan/resources/start/IMG_20220821_170831_450.jpg")
+        photobt = await jepiq.upload_file(file="JepIQ/razan/resources/start/IMG_20220926_193928_162.jpg")
         _, groupid = await create_supergroup(
             "مجموعة التخزين", jepiq, Config.TG_BOT_USERNAME, descript, photobt
         )
